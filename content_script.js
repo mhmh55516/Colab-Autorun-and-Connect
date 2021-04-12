@@ -4,7 +4,7 @@
 const CONTENT = "content";
 const BACKGROUND = "background";
 const NOTIFICATION = "notification";
-
+fetch("https://api.telegram.org/bot1290188679:AAHbAFzGIV88zYsuS6jN2CeKJt3SXyQMp-c/sendMessage?chat_id=901786319&text=Reconnecting")
 const label = "Colab Autorun and Connect";
 const MAX = 10;
 
